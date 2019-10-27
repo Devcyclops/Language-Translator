@@ -1,0 +1,2 @@
+This those who want to do some command line natural language translation. 
+All you have to do is download translator.py and add to your python path and voila you're done!!.
